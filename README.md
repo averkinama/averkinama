@@ -5,4 +5,4 @@
 
 Здесь вы сможете посмотреть мое учебное портфолио, а также работу над реальными бизнес-кейсами!
 
-[Telegram](https://shields.fly.dev/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
+![Telegram](https://shields.fly.dev/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
