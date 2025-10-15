@@ -6,4 +6,4 @@
 Здесь вы сможете посмотреть мое учебное портфолио, а также работу над реальными бизнес-кейсами!
 
 [![Telegram](https://shields.fly.dev/badge/-Telegram-4682B4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/averkina_ma)
-[![Yandex Mail](https://shields.fly.dev/badge/-YandexMail-000000?style=for-the-badge&logo=Telegram&logoColor=D2691E)](https://mail.yandex.ru/?uid=582049027#inbox)
+[![Yandex Mail](https://shields.fly.dev/badge/-YandexMail-000000?style=for-the-badge&logo=YandexMail&logoColor=D2691E)](https://mail.yandex.ru/?uid=582049027#inbox)
